@@ -1,0 +1,10 @@
+1. Menambahkan database
+	-upload folder database, img
+2. Membuat koneksi database & fungsi
+	-upload folder core, functions
+2. Menambahkan view halaman web
+	-upload folder view dan file index.php
+3. Menambahkan fitur cari artikel
+	-upload file funcExplore, indexExplore, indexKategori, single3
+4. Menambahkan fitur cari maps
+	-upload file homeCari, homeMaps6, jsonCari, koordinat, koordinatCari, maps5
