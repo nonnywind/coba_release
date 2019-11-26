@@ -1,6 +1,6 @@
 <?php
 include 'functions/functionsMaps.php';
-$konfigurasi = new konfigurasi();
+$konfigurasi = new konfigurasi(); 1233333333333
 $getData = $konfigurasi->tampilDataPencarianLokasi('tabel_data','artikel_id',$_GET['artikel_id']);
 header("Content-type: text/xml");
 try {
